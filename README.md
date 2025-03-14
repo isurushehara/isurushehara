@@ -10,10 +10,7 @@
 <p>🌱 I’m currently learning Web Development and other programming languages</p>
 </li>
 <li>
-<p>📫 How to reach me <strong><a href="mailto:adampithewan@gmail.com">adampithewan@gmail.com</a></strong></p>
-</li>
-<li>
-<p>⚡ Fun fact :- Food and Music🎵 are the reasons to live.</p>
+<p>📫 How to reach me <strong><a href="mailto:isurushehara@gmail.com">isurushehara@gmail.com</a></strong></p>
 </li>
 </ul>
 <br>
