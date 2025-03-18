@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Isuru Shehara</h1>
+<h1 align="center">Hi 👋, I'm Isuru Shehara</h1>
 <h3 align="center">Undergraduate | Software Engineering🌟.</h3>
 <br>
 <p><img align="right" src="https://github.com/isurushehara/isurushehara/blob/b07c5aa322ca2910b98c36c06ff58aacc947efcb/coding.gif" alt="isuru shehara" width="250" ></p>
